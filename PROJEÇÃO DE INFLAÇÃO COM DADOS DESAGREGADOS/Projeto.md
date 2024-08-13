@@ -1,4 +1,4 @@
-# PROJEÇÃO DE INFLAÇÃO COM DADOS DESAGREGADOS (ECONOMETRIA)
+# PROJEÇÃO DE INFLAÇÃO COM DADOS DESAGREGADOS (ECONOMETRIA - linguagem R)
 
 # CONTEXTO 
 Os agentes econômicos tomam decisões baseadas não apenas no atual estado da economia, mas também nas suas expectativas para a mesma. Isso é verdade para as famílias, para as empresas e para os diferentes setores do governo. Em países emergentes, uma das variáveis mais acompanhadas é a taxa de inflação (no pós-pandemia, isso também se mostrou verdade em economias desenvolvidas). No Brasil, dentre os diversos índices de inflação disponíveis, destaca-se o IPCA (Índice Nacional de Preços ao Consumidor Amplo). A variação anual dele é utilizada, por exemplo, para balizar a condução da política monetária por parte do Banco Central do Brasil, uma vez que o mesmo opera sob o regime de metas de inflação (definidas pelo Conselho Monetário Nacional). O índice também serve como parâmetro para reajuste de contratos e remuneração de títulos de renda fixa.
