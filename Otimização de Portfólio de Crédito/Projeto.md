@@ -1,4 +1,5 @@
-# Descrição (linguagem R)
+## Otimização de Portfólio de Crédito (linguagem R)
+# Descrição
 Um gestor deseja montar um portfólio de títulos de renda fixa prefixados e pós-fixados maximizando o retorno sujeito a restrições operacionais de risco e liquidez.
 A cada momento 𝑡 o gestor estima o retorno da carteira ponderando as taxas prefixadas de cada título calculada com dados de mercado no momento 𝑡 pelo peso, em percentual, de cada título na carteira.
 Matematicamente:
