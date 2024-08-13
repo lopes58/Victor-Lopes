@@ -1,12 +1,23 @@
 Um gestor deseja montar um portfólio de títulos de renda fixa prefixados e pós-fixados maximizando o retorno sujeito a restrições operacionais de risco e liquidez.
 A cada momento 𝑡 o gestor estima o retorno da carteira ponderando as taxas prefixadas de cada título calculada com dados de mercado no momento 𝑡 pelo peso, em percentual, de cada título na carteira.
-Matematicamente: 𝑟𝑝,𝑡=Σ𝑟𝑖,𝑡.𝑤𝑖𝑛𝑖=1
-A soma dos pesos (𝑤𝑖) tem que somar 100% Σ𝑤𝑖=1𝑛𝑖=1
+Matematicamente:
+
+𝑟𝑝,𝑡=Σ𝑟𝑖,𝑡.𝑤𝑖𝑛𝑖=1
+
+A soma dos pesos (𝑤𝑖) tem que somar 100%:
+
+Σ𝑤𝑖=1𝑛𝑖=1
+
 Onde,
+
 𝑛 : quantidade de títulos do portfólio
+
 𝑟𝑝,𝑡 : retorno prefixado do portifólio no instante 𝑡
+
 𝑟𝑖,𝑡 : retorno prefixado do 𝑖-ésimo título no instante 𝑡
+
 𝑤𝑖 : peso percentual do 𝑖-ésimo título
+
 No mercado, as seguintes alternativas:
 - Títulos emitidos por bancos de primeira e segunda linha: Letras Financeiras (LFs) e CDBs
 - Títulos emitidos por empresas não financeiras
