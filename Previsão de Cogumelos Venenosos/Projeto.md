@@ -9,4 +9,4 @@ Um cientista de dados teoriza que é possivel de desenvolver uma ferramenta para
 
 # DESAFIO
 
-Seu objetivo é criar um modelo preditivo que possa distinguir com precisão entre cogumelos venenosos e não venenosos com base em vários recursos, como formato do chapéu, cor, fixação das guelras e habitat.
+O objetivo é criar um modelo preditivo que possa distinguir com precisão entre cogumelos venenosos e não venenosos com base em vários recursos, como formato do chapéu, cor, fixação das guelras e habitat.
