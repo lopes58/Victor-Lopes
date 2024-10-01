@@ -10,3 +10,8 @@ Os dados gerados por esses sistemas os tornam atraentes para pesquisadores porqu
 # DESAFIO
 
 O objetivo é combinar padrões históricos de uso com dados meteorológicos para prever a demanda de aluguel de bicicletas em Washington, D.C.
+
+# RECURSOS
+
+É disponibilizado dados de aluguel por hora abrangendo dois anos. O conjunto de treinamento é composto pelos primeiros 19 dias de cada mês, enquanto o conjunto de teste é do 20º ao final do mês. Deve-se prever a contagem total de bicicletas alugadas durante cada hora coberta pelo conjunto de teste, usando apenas as informações disponíveis antes do período de aluguel.
+
