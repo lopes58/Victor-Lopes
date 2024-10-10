@@ -17,4 +17,5 @@ Onde: Acc é a acurácia do modelo; TP é os casos em que o modelo previu a clas
 
 Algumas restrições devem ser impostas no modelo:
 	O numero de arvores da floresta deve ser entre 200 e 400
+ 
 	A profundidade de cada arvore não pode ultrapassar 20 nós
