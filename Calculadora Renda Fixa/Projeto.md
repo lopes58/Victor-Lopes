@@ -1,0 +1,1 @@
+O código em Python tem como objetivo calcular as taxas acumuladas do CDI e do IPCA nos últimos 12 meses de forma automática e converter taxas entre diferentes índices de referência (Prefixada, Percentual do CDI, DI+ e IPCA+).
