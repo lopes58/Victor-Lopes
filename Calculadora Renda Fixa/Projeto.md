@@ -1,1 +1,1 @@
-O código em Python tem como objetivo calcular as taxas acumuladas do CDI e do IPCA nos últimos 12 meses, ou projeções anuais do Relatório Focus, de forma automática e converter taxas entre diferentes índices de referência (Prefixada, Percentual do CDI, DI+ e IPCA+).
+O código em Python tem como objetivo calcular as taxas acumuladas do CDI e do IPCA nos últimos 12 meses, ou com projeções anuais do Relatório Focus, de forma automática e converter taxas entre diferentes índices de referência (Prefixada, Percentual do CDI, DI+ e IPCA+).
