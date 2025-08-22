@@ -19,3 +19,13 @@ O objetivo deste projeto é a construção de um modelo de machine learning do i
 •	A aplicação deve utilizar recursos interativos como inserção de dados e parâmetros pelo usuário como caixas de seleção, botões de deslizamento, inserção direta de dados numéricos ou em forma de texto, barras laterais, gráficos interativos ou abas que organizem as visualizações da aplicação.
 
 •	Deve haver interação do usuário via insersão de parâmetros de análise como filtros, seleção de variáveis, visões, períodos, parâmetros de modelagem, janelas de médias móveis etc.
+
+# Resumo da aplicação:
+
+A instituição financeira FGVPython busca melhorar sua estratégia de marketing para o novo produto de empréstimo da empresa. O objetivo é prever com precisão se um cliente irá subscrever ("sim") ou não ("não") ao novo produto de depósito a prazo.
+
+Devido às relações não lineares e à diversidade de tipos de variáveis no conjunto de dados (tanto categóricas quanto numéricas), um modelo simples pode não ter um bom desempenho. Portanto, utilizou-se o Random Forest, um método de aprendizado de conjunto que pode capturar interações complexas e lidar com diferentes tipos de dados.
+
+# Execução da aplicação
+
+Para executar a aplicação execute o arquivo app.bat, para criação do ambiente Conda e ativação, além da instalação das dependências.
