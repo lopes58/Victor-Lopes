@@ -26,6 +26,6 @@ A instituição financeira FGVPython busca melhorar sua estratégia de marketing
 
 Devido às relações não lineares e à diversidade de tipos de variáveis no conjunto de dados (tanto categóricas quanto numéricas), um modelo simples pode não ter um bom desempenho. Portanto, utilizou-se o Random Forest, um método de aprendizado de conjunto que pode capturar interações complexas e lidar com diferentes tipos de dados.
 
-# Execução da aplicação
+# Execução da aplicação:
 
 Para executar a aplicação execute o arquivo app.bat, para criação do ambiente Conda e ativação, além da instalação das dependências.
